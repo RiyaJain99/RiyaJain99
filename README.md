@@ -1,7 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Riya&fontAlign=50&fontAlignY=40&color=gradient&desc=3rd%20Year%20CSE%20Student%20%7C%20VIT%20Vellore&descAlignY=60" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Riya&fontAlign=50&fontAlignY=40&color=gradient&desc=Final%20Year%20CSE%20Student%20%7C%20VIT%20Vellore&descAlignY=60"
 
 <!-- ===================== TYPING TEXT ===================== -->
 <p align="center">
@@ -19,7 +18,7 @@
 
 ```js
 const riya = {
-  role: "3rd Year CSE Student",
+  role: "4th Year CSE Student",
   university: "VIT Vellore",
   github: "https://github.com/RiyaJain99",
   interests: ["Web Development", "DSA", "Problem Solving"],
